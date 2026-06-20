@@ -29,6 +29,7 @@
 🌱 Currently learning: **AI, Bot Automation, Web Game development,Software**<br/>
 ⚡ Fun fact: Regularly cleans and optimizes personal source code on GitHub and participates in open-source programming communities to gain experience.<br/>
 💖 Hobby: Playing indie game, coding, watching anime
+
 ---
 
 ## 📫 Contact
