@@ -1,47 +1,49 @@
-# Hi there, I'm Bách (bch4x / bchhng) 👋 
-
-<p align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=200&section=header&text=Ho%C3%A0ng%20Xu%C3%A2n%20B%C3%A1ch&fontSize=50&animation=fadeIn" alt="Header Banner" />
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=bchhngsaygez&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
+  <p align="right">
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript%20(Node.js)-333?style=flat-square&logo=javascript(nodedotjs)&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lua-333?style=flat-square&logo=lua&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VS%20Code-333?style=flat-square&logo=vscode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Discord.js-333?style=flat-square&logo=discorddotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Discord.py-333?style=flat-square&logo=discorddotpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-API%20AI-333?style=flat-square&logo=apiai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=white"/>
+  </p>
 </p>
 
-### 💫 About Me
-Một học sinh đang ngồi ghế nhà trường tại Quảng Ninh, mang trong mình niềm đam mê cháy bỏng với những dòng code. Không chỉ gõ phím vì bài tập, mình code vì **đam mê thực sự**! 🚀
-
-*   🎯 **Mục tiêu:** Trở thành một Developer thực thụ, làm chủ các công nghệ mới.
-*   🎮 **Sở thích:** Chơi game, cày Anime (Otaku ngầm 🐧), và đặc biệt là **ĂN** (Ăn cả thế giới!).
-*   🤖 **Dự án tâm huyết hiện tại:** Phát triển Bot Discord tích hợp AI siêu trí tuệ.
+<br clear="both"/>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-Mấy món "vũ khí" mình đang và đã cày cuốc:
+## 👋 About Me
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+🧑‍💻 I'm **HOÀNG XUÂN BÁCH**, Backend / Game Developer Intern.<br/>
+💼 Based in **Cẩm Phả, Quảng Ninh**, working at **no**.<br/>
+🌱 Currently learning: **AI, Bot Automation, Web Game development**<br/>
+💬 Ask me about: **Script automation, Discord bot development, Web game logic**<br/>
+⚡ Fun fact: Regularly cleans and optimizes personal source code on GitHub and participates in open-source programming communities to gain experience.
 
 ---
 
-### 🌟 Featured Project
-> [!TIP]
-> ### 🤖 Discord AI Bot
-> *   **Công nghệ:** Node.js / Python (Tùy bạn đang code bằng gì nè).
-> *   **Tính năng:** Tích hợp AI thông minh, tự động trò chuyện, quản lý server, và nhiều trò giải trí cho anh em trong Discord.
-> *   *Status: Đang tiếp tục nâng cấp tính năng xịn hơn mỗi ngày!*
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuanbachkat.123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bchhngsaygez)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Bách's GitHub Stats" />
-</p>
+## ✍️ Blog & Content
 
-<p align="center">
-  Đang trên con đường biến đống mì tôm 🍜 thành những dòng code chạy mượt mà không bug!
-</p>
+---
+
+## 💖 Support My Work
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bchhngsaygez&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
