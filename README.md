@@ -24,9 +24,9 @@
 
 ## 👋 About Me
 
-🧑‍💻 I'm **HOÀNG XUÂN BÁCH**, Backend / Game Developer Intern.<br/>
+🧑‍💻 I'm **HOÀNG XUÂN BÁCH**, Cybersecurity Enthusiast | Penetration Tester | Application Security<br/>
 💼 Living in **Cẩm Phả, Quảng Ninh**.<br/>
-🌱 Currently learning: **AI, Bot Automation, Web Game development,Software**<br/>
+🌱 Currently learning: **Penetration Testing, Exploit Development, Network Security, CTF**<br/>
 ⚡ Fun fact: Regularly cleans and optimizes personal source code on GitHub and participates in open-source programming communities to gain experience.<br/>
 💖 Hobby: Playing indie game, coding, watching anime
 
