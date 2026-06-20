@@ -36,14 +36,5 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuanbachkat.123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bchhngsaygez)
 
----
-
-## ✍️ Blog & Content
-
----
-
-## 💖 Support My Work
-
----
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bchhngsaygez&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
