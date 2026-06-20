@@ -25,9 +25,8 @@
 ## 👋 About Me
 
 🧑‍💻 I'm **HOÀNG XUÂN BÁCH**, Backend / Game Developer Intern.<br/>
-💼 Based in **Cẩm Phả, Quảng Ninh**, working at **no**.<br/>
-🌱 Currently learning: **AI, Bot Automation, Web Game development**<br/>
-💬 Ask me about: **Script automation, Discord bot development, Web game logic**<br/>
+💼 Living in **Cẩm Phả, Quảng Ninh**.<br/>
+🌱 Currently learning: **AI, Bot Automation, Web Game development,Software**<br/>
 ⚡ Fun fact: Regularly cleans and optimizes personal source code on GitHub and participates in open-source programming communities to gain experience.
 
 ---
