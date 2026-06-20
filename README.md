@@ -24,12 +24,11 @@
 
 ## 👋 About Me
 
-🧑‍💻 I'm **HOÀNG XUÂN BÁCH**, Cybersecurity Enthusiast | Penetration Tester | Application Security<br/>
+🧑‍💻 I'm **HOÀNG XUÂN BÁCH**, a funny developer<br/>
 💼 Living in **Cẩm Phả, Quảng Ninh**.<br/>
-🌱 Currently learning: **Penetration Testing, Exploit Development, Network Security, CTF**<br/>
-⚡ Fun fact: Regularly cleans and optimizes personal source code on GitHub and participates in open-source programming communities to gain experience.<br/>
-💖 Hobby: Playing indie game, coding, watching anime
-
+🌱 Currently learning: **Penetration Testing, Website Application, AI, CTF**<br/>
+💖 Hobby: Playing indie game, coding, watching anime.<br/>
+⚡ Fun fact: Regularly cleans and optimizes personal source code on GitHub and participates in open-source programming communities to gain experience.
 ---
 
 ## 📫 Contact
