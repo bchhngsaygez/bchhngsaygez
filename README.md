@@ -5,7 +5,7 @@
 </p>
 
 ### 💫 About Me
-Một Gen Z chính hiệu đang ngồi ghế nhà trường tại Quảng Ninh, mang trong mình niềm đam mê cháy bỏng với những dòng code. Không chỉ gõ phím vì bài tập, mình code vì **đam mê thực sự**! 🚀
+Một học sinh đang ngồi ghế nhà trường tại Quảng Ninh, mang trong mình niềm đam mê cháy bỏng với những dòng code. Không chỉ gõ phím vì bài tập, mình code vì **đam mê thực sự**! 🚀
 
 *   🎯 **Mục tiêu:** Trở thành một Developer thực thụ, làm chủ các công nghệ mới.
 *   🎮 **Sở thích:** Chơi game, cày Anime (Otaku ngầm 🐧), và đặc biệt là **ĂN** (Ăn cả thế giới!).
